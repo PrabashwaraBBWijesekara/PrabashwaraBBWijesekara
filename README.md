@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabashwara Wijesekara</h1>
 <h3 align="center">A passionate Undergraduate in Robotics and Software Engineering</h3>
 
-- 🔭 I’m currently working on **GolfBot - A Golf Player Companion Robot(ROS2))**
+- 🔭 I’m currently working on **GolfBot - A Golf Player Companion Robot(ROS2)**
 
 - 🌱 I’m currently learning **ROS2, Gazebo, Spring Boot**
 
